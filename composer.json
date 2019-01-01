@@ -1,0 +1,14 @@
+{
+  "name": "drupal/devel_explorer",
+  "type": "drupal-module",
+  "description": "Explore installed drupal components, such as plugins and services",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/devel_explorer",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/devel_explorer",
+    "source": "http://cgit.drupalcode.org/devel_explorer"
+  },
+  "require": { }
+}

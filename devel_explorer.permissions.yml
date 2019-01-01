@@ -1,0 +1,4 @@
+devel_explorer view:
+  title: 'View devel_explorer pages'
+  description: 'Access pages that are provided by the Devel Explorer module.'
+  restrict access: true

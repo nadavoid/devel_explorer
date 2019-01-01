@@ -1,0 +1,8 @@
+
+devel_explorer.top_page:
+  path: '/admin/config/development/explorer'
+  defaults:
+    _controller: '\Drupal\devel_explorer\Controller\TopPageController::page'
+    _title: 'page'
+  requirements:
+    _permission: 'devel_explorer view'
